@@ -1,0 +1,43 @@
+[
+    {
+      "nombre": "Casco de Motocicleta",
+      "precio": 129.99
+    },
+    {
+      "nombre": "Guantes de Cuero",
+      "precio": 49.99
+    },
+    {
+      "nombre": "Aceite para Motor",
+      "precio": 19.99
+    },
+    {
+      "nombre": "Chaqueta de Moto",
+      "precio": 189.99
+    },
+    {
+      "nombre": "Llantas para Moto",
+      "precio": 299.99
+    },
+    {
+      "nombre": "Candado de Disco",
+      "precio": 29.99
+    },
+    {
+      "nombre": "Bolsa para Tanque",
+      "precio": 39.99
+    },
+    {
+      "nombre": "Filtro de Aire de Alto Rendimiento",
+      "precio": 49.99
+    },
+    {
+      "nombre": "Soporte para Smartphone",
+      "precio": 19.99
+    },
+    {
+      "nombre": "Cargador USB para Moto",
+      "precio": 9.99
+    }
+  ]
+  
